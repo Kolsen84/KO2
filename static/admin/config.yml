@@ -215,7 +215,7 @@ collections:
               widget: 'markdown',
             }
       - name: 'about_litters'
-        label: 'About Your Litters'
+        label: 'About your Litters'
         file: 'src/cms/general/litters.md'
         fields:
           - {
