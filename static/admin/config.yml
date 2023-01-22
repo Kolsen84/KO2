@@ -224,7 +224,7 @@ collections:
               widget: 'markdown',
             }
       - name: 'about_puppy_training'
-        label: 'About ENS / Puppy culture'
+        label: 'About ENS / Puppy Culture'
         file: 'src/cms/general/puppy-training.md'
         fields:
           - {
