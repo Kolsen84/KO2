@@ -6,7 +6,7 @@ color: Traditional Tricolor
 birthdate: 2020-06-27T18:06:55.505Z
 gender: m
 ---
-Blue is loving, playful and having the best life with his guardian family the Olsens. He is our up and coming future stud, pending genetic and health testing.
+Blue is loving, playful, and having the best life with his guardian family the Olsens. He is our up and coming future stud, pending genetic and health testing.
 
 Weight: 41 lbs\
 Clearances: GM2, NCS, PRA, VWD 1 clear, DM carrier, FIC
