@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Saratoga Springs Doodles`,
     description: `Utah's premier breeder of genetic health tested bernedoodle and goldendoodle puppies.`,
-    author: `Lucas Ogden-Davis`,
+    author: `Andrea Saunders`,
     company: `Saratoga Springs Doodles`,
     siteUrl: `https://www.saratogaspringsdoodles.com/`,
   },
